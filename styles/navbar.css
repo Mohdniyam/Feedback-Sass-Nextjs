@@ -1,0 +1,69 @@
+.NavBar_box {
+    height: 72px;
+    width: 825px;
+    position: relative;
+  }
+  
+  .NavBar_box .NavBar_rectangle {
+    background-color: #373f68;
+    border-radius: 10px;
+    height: 74px;
+    /* left: 0; */
+    position: absolute;
+    /* top: 0; */
+    width: 827px;
+  }
+  .Navbar_text{
+    color: #ffffff;
+    font-family: "Jost-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    /* left: 0; */
+    letter-spacing: -0.25px;
+    line-height: normal;
+    /* position: absolute; */
+    /* top: 0; */
+  }
+
+  .Navbar_button {
+    height: 44px;
+    width: 158px;
+  }
+  
+  .Navbar_button .Navbar_button-text {
+    background-color: #c75af6;
+    border-radius: 10px;
+    height: 46px;
+    /* left: 0; */
+    position: absolute;
+    font-family: "Jost-Bold", Helvetica;
+    /* top: 0; */
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Navbar_text-wrapper {
+    color: #f2f4fe;
+    /* font-family: "Jost-Bold", Helvetica; */
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+ 
+  }
+  
+
+  .sort-by {
+    color: #f2f4fe;
+    font-family: "Jost-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+
+  .upvotes {
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+  }
+

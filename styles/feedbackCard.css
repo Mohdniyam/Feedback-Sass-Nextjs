@@ -1,0 +1,73 @@
+.comment-like {
+  background-color: #f2f4fe;
+  border-radius: 10px;
+  height: 55px;
+  /* left: 0; */
+  /* position: fixed; */
+  /* top: 0; */
+  width: 42px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap:0.62rem
+}
+.comment_number {
+  color: #3a4374;
+  font-family: "Jost-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 900;
+
+  letter-spacing: -0.18px;
+  line-height: normal;
+  /* position: fixed; */
+  text-align: center;
+}
+
+.feedback_card {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.feedback_card .feedback_card_content {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 9.4375rem;
+  width: 827px;
+  /* position: absolute; */
+}
+
+
+.q-a-within-the-chall {
+  color: #4661e6;
+  font-family: "Jost-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  padding: 0;
+  margin: 0;
+  /* position: fixed; */
+}
+
+.challenge-specific-q {
+  color: #647196;
+  font-family: "Jost-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+
+  letter-spacing: 0;
+  line-height: normal;
+
+  margin: 0;
+  margin-bottom: 1rem;
+}
+.feedback-btn {
+  background-color: #f2f4ff;
+  border-radius: 10px;
+  height: 32px;
+  width: max-content;
+  color: #4661e6;
+  border-color: transparent;
+}

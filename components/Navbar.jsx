@@ -26,7 +26,7 @@ function Navbar() {
           }}
         >
           <div>
-            <Image src={bulbIcon} width="1.4375rem" height="1.5rem" />
+            <Image src={bulbIcon} width="1.4375rem" height="1.5rem" alt="icon" />
           </div>
           <div className="Navbar_text">6 Suggestions</div>
           <div

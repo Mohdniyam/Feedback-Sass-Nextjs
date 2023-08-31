@@ -1,0 +1,31 @@
+.filter_sidebar {
+  height: 166px;
+  width: 255px;
+  margin: 1.5rem 0;
+ 
+}
+
+.filter_sidebar .sidebar_rectangle {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 168px;
+  width: 257px;
+  border: 2px solid red;
+  display: flex;
+  gap: 0.5rem;
+
+  /* row-gap: 1.5rem; */
+  /* padding-right: 1.5rem;  */
+  /* margin-left: 1.5rem; */
+}
+
+
+.small-rectangle {
+  background-color: #4661e6;
+  border-radius: 10px;
+  height: 32px; 
+  width: 50px;
+  margin-top: 1.5rem;
+  /* margin-left: 1.5rem; */
+  
+}
